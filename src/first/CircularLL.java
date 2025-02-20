@@ -23,8 +23,7 @@ public class CircularLL {
 	
 	public void creation()
 	{
-		int data;
-		int choice;
+		int data,choice;
 		int pos;
 		int l;
 		do
